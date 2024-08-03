@@ -95,7 +95,7 @@ export const UI = () => {
               you back 
             </h2>
             <h2 className="shrink-0 text-white text-12xl font-bold">
-              in his life
+              In his life
             </h2>
             <h2 className="shrink-0 text-transparent text-12xl font-bold italic outline-text">
               please come
