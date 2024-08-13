@@ -115,7 +115,7 @@ export const UI = () => {
           </div>
           <div className="absolute top-0 left-0 bg-white/0 animate-horizontal-scroll-2 flex items-center gap-8 px-8 w-max">
             <h1 className="shrink-0 text-white text-10xl font-black ">
-              NikoChan wants 
+              nikoChan wants 
             </h1>
             <h2 className="shrink-0 text-white text-8xl italic font-light">
               you back 
